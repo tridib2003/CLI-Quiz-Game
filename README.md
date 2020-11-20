@@ -1,2 +1,1 @@
-# CLI-Quiz-Game
-A CLI Quiz Game
+## Are you ready ? [Click here](https://repl.it/@TridibSamanta/Game?embed=1&output=1#index.js) to :rocket:
