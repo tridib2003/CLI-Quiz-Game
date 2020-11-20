@@ -1,1 +1,1 @@
-## Are you ready ? [Click here](https://repl.it/@TridibSamanta/Game?embed=1&output=1#index.js) to :rocket:
+## Are you ready ? [Click here](https://repl.it/@TridibSamanta/Game?embed=1&output=1) to :rocket:
